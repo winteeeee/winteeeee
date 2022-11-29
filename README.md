@@ -1,4 +1,4 @@
-# [Han SeongMin]
+# [SeongMin Han]
 ### (2022~) Kumoh National Institute of Technology Software Engineering NLP Lab
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b12e34e56)](https://solved.ac/b12e34e56/)
