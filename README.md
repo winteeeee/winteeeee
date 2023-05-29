@@ -1,5 +1,5 @@
 # [SeongMin Han]
-### (2022.06 ~ ?) Kumoh National Institute of Technology Software Engineering KLE Lab Researcher
+### (2022.06 ~ 2023.02) Kumoh National Institute of Technology Software Engineering KLE Lab Researcher
 ### (2023.02 ~ ?) Kumoh National Institute of Technology Software Engineering KLE Lab Leader
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b12e34e56)](https://solved.ac/b12e34e56/)
