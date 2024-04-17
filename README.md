@@ -19,3 +19,6 @@
 ![clion](https://img.shields.io/badge/CLion-000000.svg?&style=for-the-badge&logo=clion&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white)
+
+### Email
+b12e34e56@naver.com
