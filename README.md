@@ -23,3 +23,6 @@
 
 ### Email
 b12e34e56@naver.com
+
+### Blog
+https://winteeeee.github.io/
