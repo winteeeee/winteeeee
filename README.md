@@ -1,5 +1,5 @@
 # [SeongMin Han]
-### [약력]
+## [약력]
 - ### 2019.03 금오공과대학교 컴퓨터소프트웨어공학과 19학번 입학
 - ### 2022.06 금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구원
 - ### 2023.02 금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구실장
@@ -11,21 +11,8 @@
 - ### 2024.08 금오공과대학교 컴퓨터소프트웨어공학과 조기졸업
 - ### 2025.01 SSAFY(구미 캠퍼스) 13기
 
+## BOJ / solvac.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b12e34e56)](https://solved.ac/b12e34e56/)
 
-### Languages
-![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-
-### IDE
-![intellijidea](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![clion](https://img.shields.io/badge/CLion-000000.svg?&style=for-the-badge&logo=clion&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![webstorm](https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white)
-
-### Email
+## Email
 b12e34e56@naver.com
