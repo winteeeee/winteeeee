@@ -11,7 +11,7 @@
 - ### 2024.08 금오공과대학교 컴퓨터소프트웨어공학과 조기졸업
 - ### 2025.01 SSAFY(구미 캠퍼스) 13기
 
-## BOJ / solvac.ac
+## BOJ / solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b12e34e56)](https://solved.ac/b12e34e56/)
 
 ## Email
