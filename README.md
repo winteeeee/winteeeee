@@ -1,18 +1,83 @@
 # [SeongMin Han]
-## [약력]
-- ### 2019.03 금오공과대학교 컴퓨터소프트웨어공학과 19학번 입학
-- ### 2022.06 금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구원
-- ### 2023.02 금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구실장
-- ### 2023.09 The 1st Coders Open Contest In Informatics IN GUMI 2등
-- ### 2023.11 KIT Engineering Fair 동상
-- ### 2024.02 웹 개발자 양성 프로그램 WEBKIT 멘토
-- ### 2024.06 정보처리기사 취득
-- ### 2024.07 [잡음 정제를 통한 고응집도 군집과 후반부 요약을 이용한 효과적인 뉴스 요약](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109973) 논문 투고
-- ### 2024.08 금오공과대학교 컴퓨터소프트웨어공학과 조기졸업
-- ### 2025.01 SSAFY(구미 캠퍼스) 13기
+### 안녕하세요 소프트웨어 개발자 한성민입니다.
+새로운 기술적 도전을 즐기고 이를 통한 스스로의 발전을 지향합니다. <br> 웹 백엔드, 웹 프론트엔드, AI, 클라우드 등 다양한 도메인에 대한 경험이 있으며 현재 시스템 아키텍처 및 성능 개선에 관심 있습니다.
 
-## BOJ / solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b12e34e56)](https://solved.ac/b12e34e56/)
+
+## [기술스택]
+- Java, Python, C++, JS, SQL
+- Spring, FastAPI, Express, React, Vue
+- MySQL, MongoDB
+- Git, Docker
+
+## [이력]
+- 2019.03 국립금오공과대학교 컴퓨터소프트웨어공학과 19학번 입학
+- 2022.06 국립금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구원
+- 2023.02 국립금오공과대학교 컴퓨터소프트웨어공학과 지식언어공학연구실 연구실장
+- 2024.02 웹 개발자 양성 프로그램 WEBKIT 멘토
+- 2024.08 금오공과대학교 컴퓨터소프트웨어공학과 조기졸업(수석)
+- 2025.01 SSAFY(구미 캠퍼스) 13기 JAVA 전공
+
+## [수상 및 자격]
+- 2023.09 The 1st Coders Open Contest In Informatics IN GUMI 2등
+- 2023.11 KIT Engineering Fair 동상
+- 2024.06 정보처리기사
+- 2025.03 삼성 SW 역량테스트 B형
+- 2025.06 SSAFY 성적 우수상(1등)
+
+## [논문]
+- 2024.07 [잡음 정제를 통한 고응집도 군집과 후반부 요약을 이용한 효과적인 뉴스 요약](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109973)
+
+## [프로젝트]
+- **MovingLogs**
+  - 개발기간: 2025.06 ~ 2025.06
+  - 개요: 관광지 공공데이터 기반 여행 플랫폼
+  - 담당 역할 및 기여: 프론트엔드 및 백엔드 전반 개발
+  - 사용 기술: Java, JavaScript, Spring, Vue, MySQL, Redis
+  - 구현 사항
+     - 헥사고날 아키텍처 기반 백엔드 서버 구축
+     - JWT, OAuth를 활용한 Spring Security 구축
+     - ChatGPT API를 이용한 AI 기능 구현
+     - 좋아요, 조회수를 Redis를 이용한 캐시 레이어에 저장후 일정 주기로 배치 업데이트
+     - AI, 관광지, 여행 계획 기능의 프론트엔드 페이지 구현
+- **KWS**
+  - 개발기간: 2024.03 ~ 2024.06
+  - 개요: 연구실 학생들이 서버를 대여하기 위한 프라이빗 IaaS 플랫폼
+  - 담당 역할 및 기여: 프로젝트 팀장, 백엔드 시스템 개발, 인프라 구축
+  - 사용 기술: Python, MySQL, OpenStack(Neutron, Cinder, Glance, Keystone, Zun, Nova, Horizon)
+  - 구현 사항
+    - 물리 컴퓨터 4대 기반 인프라 구축
+    - VM 대여, 연장, 반납 기능 구현
+    - 컨테이너 대여, 연장, 반납 기능 구현
+    - 복수개의 단일 노드를 컨트롤하는 백엔드 서버 구축
+    - Zun 소스코드 수정 경험
+- **KIT Transformer**
+  - 개발기간: 2024.01 ~ 2024.02
+  - 개요: Attention is All You Need 논문을 참고하여 Transformer 모델 직접 구현(학습 목적)
+  - 담당 역할 및 기여: 1인 개발
+  - 사용 기술: Python, Tensorflow, Transformer
+  - 구현 사항
+    - Tensorflow의 Subclassing API를 이용하여 개선된 가독성으로 모델 구현
+    - ADD & Norm, Multi-Head Attention, Embedding, Position-wise-FFNN, Positinal Encoder, Decoder 모듈 개발
+- **TSR 고장 진단 시스템**
+  - 개발기간: 2023.09 ~ 2024.01
+  - 개요: (주)TSR 기업 연계 프로젝트. 공장 내부 실시간 데이터 모니터링 및 고장진단 기능 제공
+  - 담당 역할 및 기여: 고장 진단 모델(쇼트 블라스트, 인산염 피막기, 비형상 도포기, 진공 펌프) 개발
+  - 사용 기술: Python, Tensorflow, LSTM AE
+  - 구현 사항
+    - LSTM AE 구조로 고장진단 모델 개발
+- **오늘의 뉴스**
+  - 개발기간: 2023.07 ~ 2023.12
+  - 개요: 간결하고 빠른 정보 전달을 위해 기사를 후처리하여 제공하는 뉴스 플랫폼
+  - 담당 역할 및 기여: 비즈니스 로직 개발, 백엔드 서버 성능 개선, 아키텍처 구조 개선, 프론트엔드 개발 지원
+  - 사용 기술: Java, Spring, MySQL, Python, Docker
+  - 구현 사항
+    - HDBSCAN + MeanShift를 활용하는 커스텀 BERTopic 개발
+    - 뉴스 도메인의 특성에 착안한 맞춤 다중 문서 요약 알고리즘 개발
+    - 연관 문서 군집 탐색 알고리즘 개발
+    - FetchType, Fetch Join, 쿼리 개선, 인덱스 추가 등의 방법으로 API 응답 속도 평균 50% 가량 개선(단일 쿼리 기준)
+    - 뉴스 후처리 프로세스의 작업 분리 및 병렬화. 이후 분리된 프로세스들을 MQ로 연결하여 확장성을 개선, 작업 속도 상승, 단일 장애 지점 회피
+    - 프론트엔드 페이지의 전체적인 디자인 개선 및 날씨 위젯 개발
 
 ## Email
 b12e34e56@naver.com
