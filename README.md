@@ -29,7 +29,7 @@
 - 2024.07 [잡음 정제를 통한 고응집도 군집과 후반부 요약을 이용한 효과적인 뉴스 요약](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109973)
 
 ## [프로젝트]
-- **MovingLogs**
+- **[MovingLogs](https://github.com/winteeeee/MovingLogs)**
   - 개발기간: 2025.06 ~ 2025.06
   - 개요: 관광지 공공데이터 기반 여행 플랫폼
   - 담당 역할 및 기여: 프론트엔드 및 백엔드 전반 개발
