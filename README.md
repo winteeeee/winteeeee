@@ -55,23 +55,14 @@
     - Zun 소스코드 수정 경험
 <br>
 
-- **KIT Transformer**
+- **[KIT Transformer](https://github.com/winteeeee/KIT-Transformer)**
   - 개발기간: 2024.01 ~ 2024.02
   - 개요: Attention is All You Need 논문을 참고하여 Transformer 모델 직접 구현(학습 목적)
   - 담당 역할 및 기여: 1인 개발
   - 사용 기술: Python, Tensorflow, Transformer
   - 구현 사항
-    - Tensorflow의 Subclassing API를 이용하여 개선된 가독성으로 모델 구현
-    - ADD & Norm, Multi-Head Attention, Embedding, Position-wise-FFNN, Positinal Encoder, Decoder 모듈 개발
-<br>
-
-- **TSR 고장 진단 시스템**
-  - 개발기간: 2023.09 ~ 2024.01
-  - 개요: (주)TSR 기업 연계 프로젝트. 공장 내부 실시간 데이터 모니터링 및 고장진단 기능 제공
-  - 담당 역할 및 기여: 고장 진단 모델(쇼트 블라스트, 인산염 피막기, 비형상 도포기, 진공 펌프) 개발
-  - 사용 기술: Python, Tensorflow, LSTM AE
-  - 구현 사항
-    - LSTM AE 구조로 고장진단 모델 개발
+    - Tensorflow의 Subclassing API를 이용하여 모델 구현
+    - ADD & Norm, Multi-Head Attention, Embedding, Position-wise-FFNN, Positinal Encoder, Decoder 모듈 직접 구현
 <br>
 
 - **오늘의 뉴스**
